@@ -3,7 +3,7 @@ A Real Estate Application Using The Django framework &amp; PostgreSQL
 # 🎞
 
 
-![screencapture-127-0-0-1-8000-2022-10-30-11_45_01](https://user-images.githubusercontent.com/88139550/198865881-98659feb-0d8d-4936-b013-4cf762a4c481.png)
+![screencapture-127-0-0-1-8000-2022-10-30-13_25_59](https://user-images.githubusercontent.com/88139550/198868311-a812818a-bceb-4397-ace8-0c366f2502ea.png)
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ![screencapture-127-0-0-1-8000-about-2022-10-30-11_45_37](https://user-images.githubusercontent.com/88139550/198866006-a12db0e9-00af-44f7-84eb-07c1a6bd440c.png)
